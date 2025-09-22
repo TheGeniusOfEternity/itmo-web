@@ -1,5 +1,5 @@
 [submodule "lab-1"]
-    path = lab-1
-    url = https://github.com/TheGeniusOfEternity/lab-1.git
-    branch = webpack
+   path = lab-1
+   url = https://github.com/TheGeniusOfEternity/lab-1.git
+   branch = webpack
 
